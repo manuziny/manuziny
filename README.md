@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 Sou estudante de engenharia de software aos prantos<br>👯 Sempre em busca de novos conhecimentos<br>⚡ Fun fact: depois que fiz um joguinho eu nunca mais fui a mesma.
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_manuzini) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_manuzini) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_manuzini) 
@@ -15,13 +17,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manuziny&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ![Snake animation](https://github.com/manuziny/manuziny/blob/output/github-contribution-grid-snake.svg)
 
-</div>
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=manuziny&repo=manuziny&theme=react)](https://github.com/manuziny/manuziny)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
