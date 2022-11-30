@@ -18,4 +18,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![Snake animation](https://github.com/manuziny/manuziny/blob/output/github-contribution-grid-snake.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
