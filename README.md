@@ -20,4 +20,8 @@
 
 ![Snake animation](https://github.com/manuziny/manuziny/blob/output/github-contribution-grid-snake.svg)
 
+</div>
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=manuziny&repo=manuziny&theme=react)](https://github.com/manuziny/manuziny)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
