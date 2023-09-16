@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de engenharia de software aos prantos<br>👯 Sempre em busca de novos conhecimentos<br>⚡ Fun fact: depois que fiz um joguinho eu nunca mais fui a mesma.
+🔭 Sou estudante de engenharia de software aos prantos<br>👯 Sempre em busca de novos conhecimentos<br>⚡ Fun fact: gosto do cheiro de madeira sendo queimada.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
